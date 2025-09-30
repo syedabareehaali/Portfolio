@@ -72,7 +72,8 @@ const About = () => {
               <div className="space-y-3 text-sm">
                 <div>
                   <p className="font-semibold text-foreground">Quantum Computing in Generative AI</p>
-                  <p className="text-muted-foreground">A Systematic Literature Review</p>
+                  <p className="text-muted-foreground" style={{ textAlign: "justify" }}>The research examines the intersection of quantum computing and generative AI, synthesizing key methods, findings, and challenges. It highlights current trends, identifies research gaps, and outlines directions for future exploration in this emerging field.
+                  </p>
                   <p className="text-accent text-xs font-medium mt-2">In Progress</p>
                 </div>
                 <div className="pt-2">

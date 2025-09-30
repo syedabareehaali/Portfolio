@@ -25,11 +25,13 @@ const skillCategories = [
 ];
 
 const certifications = [
-  { name: "Frontend Dev With React", issuer: "Coursera" },
-  { name: "Machine Learning", issuer: "NCAI Lab, NEDUET" },
-  { name: "Microsoft Power-BI", issuer: "NCAI Lab, NEDUET" },
+  { name: "Frontend Development With React", issuer: "Coursera" },
+  {name: "Understanding The Basics Of React", issuer: "10Pearls University"},
+  { name: "Machine Learning", issuer: "National Center For Artificial Intelligence, NEDUET" },
+  { name: "Microsoft Power-BI", issuer: "National Center For Artificial Intelligence, NEDUET" },
   { name: "Python for Everybody", issuer: "University of Michigan, Coursera" },
-  { name: "Flutter Application Development", issuer: "Smart City Lab, NEDUET" }
+  { name: "Flutter Application Development", issuer: "Smart City Lab, NEDUET" },
+  {name: "Agile Explorer", issuer: "IBM SkillsBuild"}
 ];
 
 const Skills = () => {
